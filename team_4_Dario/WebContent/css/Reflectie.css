@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+div {
+	display: inline-flex;
+}
+
+p {
+	padding-top: 5em;
+	padding-left: 1em;
+	padding-right: 8em;
+}
+
+img {
+	margin-top: 3em;
+	width: 770px;
+	height: 513px;
+	
+}
+
+.img2 {
+	height: 350px;
+}
+
+.img3 {
+	width: 25%;
+	height: 25%;
+}
