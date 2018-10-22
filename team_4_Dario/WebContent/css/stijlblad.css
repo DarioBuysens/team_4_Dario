@@ -1,5 +1,16 @@
 @charset "ISO-8859-1";
 
-.inline {
-	display: inline;
+div {
+	display: inline-block;
+	text-align: center; 
+	margin-left: 10em;
+}
+
+img {
+	width: 300px;
+	height: 250 px;
+}
+
+a {
+	list-style: none;
 }
